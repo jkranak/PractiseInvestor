@@ -70,4 +70,3 @@ PractiseInvestor/Front-end % npm start
 * Sarah Shaffer [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/sarah-shaffer-63a662208/)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
